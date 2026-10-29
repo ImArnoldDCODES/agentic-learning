@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Generated when you run the lessons
+traces/
+solutions/
+router_cache.json
+router_results.csv
+
+# macOS
+.DS_Store
